@@ -1,2 +1,2 @@
-# JeshuaNomics-DataScience-R-Ciencia-de-Datos
+# JeshuaNomics-DataScience-R
 R para la ciencia de datos: Material complementario.
