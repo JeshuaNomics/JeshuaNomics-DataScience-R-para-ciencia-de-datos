@@ -1,0 +1,13 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
